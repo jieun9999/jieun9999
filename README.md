@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jieun%20Lee&fontColor=000000&fontSize=80&fontAlign=50&fontAlignY=32&desc=jieun9999's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jieun%20Jeong&fontColor=000000&fontSize=80&fontAlign=50&fontAlignY=32&desc=jieun9999's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
 
 <p align="center">
   <b>I wanna be a Full Stack Developer</b> 👩‍💻 <br>
