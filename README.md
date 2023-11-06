@@ -18,9 +18,7 @@
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">&nbsp
-
-  &nbsp
-  &nbsp
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
   <br>
 </p>
 <br>
@@ -29,7 +27,9 @@
 <p align="center">
   <a href="https://kindjjee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="https://instagram.com/jing_niya?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="mailto:kindjjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:kindjjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>&nbsp
+  <a href="https://www.youtube.com/channel/UC4Ko_m_nFSA8QgLomoF5b1w"><img src="https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=Youtube&logoColor=white"></a>
+
 </p>
 <br>
 
