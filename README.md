@@ -17,8 +17,10 @@
 
   <br>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>&nbsp 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=Mysql&logoColor=white">&nbsp
+
+  &nbsp
+  &nbsp
   <br>
 </p>
 <br>
@@ -34,10 +36,10 @@
 ## 🐱 Github Stats🐱
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hoonyworld&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats) 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun9999&show_icons=true&theme=tokyonight)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoonyworld&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun9999&layout=compact&theme=tokyonight)
 <br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhoonyworld&count_bg=%23E9CEC4&title_bg=%23D992E3&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjieun9999&count_bg=%23FFBEEC&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
