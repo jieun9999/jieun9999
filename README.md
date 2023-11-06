@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jieun%20Lee&fontColor=000000&fontSize=90&fontAlign=50&fontAlignY=32&desc=hoonyworld's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jieun%20Lee&fontColor=000000&fontSize=80&fontAlign=50&fontAlignY=32&desc=jieun9999's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
 
 <p align="center">
   <b>I wanna be a Full Stack Developer</b> 👩‍💻 <br>
@@ -30,7 +30,7 @@
 
 ## 🔎 Follow Me 🔎
 <p align="center">
-  <a href="https://01codingjourney.tistory.com"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
+  <a href="https://kindjjee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="https://instagram.com/jing_niya?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
   <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
