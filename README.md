@@ -32,7 +32,7 @@
 <p align="center">
   <a href="https://kindjjee.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Tistory&logoColor=white"></a>&nbsp
   <a href="https://instagram.com/jing_niya?igshid=NGVhN2U2NjQ0Yg%3D%3D&utm_source=qr"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp
-  <a href="mailto:7ldh7@gachon.ac.kr"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
+  <a href="mailto:kindjjee@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"></a>
 </p>
 <br>
 
