@@ -1,12 +1,5 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=210&section=header&text=Jieun%20Jeong&fontColor=000000&fontSize=80&fontAlign=50&fontAlignY=32&desc=jieun9999's%20Github%20Profile&descSize=25&descAlign=75&descAlignY=55)
-
-<p align="center">
-  <b>I wanna be a Full Stack Developer</b> 👩‍💻 <br>
-  <b>I'm growing everyday </b> 🏃‍♂️
-</p>
-<br>
 
 ## 📚 Tech Stack 📚
 <p align="center">
@@ -35,14 +28,5 @@
 
 </p>
 <br>
-
-## 🐱 Github Stats🐱
-<br>
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jieun9999&show_icons=true&theme=tokyonight)
-<br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jieun9999&layout=compact&theme=tokyonight)
-<br>
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjieun9999&count_bg=%23FFBEEC&title_bg=%23FFE5E5&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 </div>
